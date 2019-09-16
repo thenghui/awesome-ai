@@ -5,7 +5,12 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 
 Contributions are always welcome! We accept proprietary and commercial software too.
 
-# General
+
+## Chatbot
 
 * [BotSharp](https://github.com/SciSharp/BotSharp) - The Open Source AI Chatbot Platform Builder in 100% C# Running in .NET Core with Machine Learning algorithm.
+
+## Computer Vision
+
+* [OpenCV](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 
