@@ -6,9 +6,10 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 Contributions are always welcome! We accept proprietary and commercial software too.
 
 
-## Chatbot
+## Natural Language Processing (NLP)
 
 * [BotSharp](https://github.com/SciSharp/BotSharp) - The Open Source AI Chatbot Platform Builder in 100% C# Running in .NET Core with Machine Learning algorithm.
+* [Malaya](https://github.com/huseinzol05/Malaya) - Natural-Language-Toolkit library for bahasa Malaysia, powered by Deep Learning Tensorflow.
 
 ## Computer Vision
 
